@@ -6,4 +6,4 @@ Ikut serta dalam Bootcamp Data Analyst di Dsarea selama 1 bulan dengan fokus pad
 
 Materi bootcamp ini juga mencakup pengenalan dan praktik penggunaan tools yang umum digunakan oleh Data Analyst seperti Microsoft Excel, Power BI, dan BigQuery. Sebagai bagian dari tugas project, dilakukan pengolahan beberapa file Excel terkait data penjualan mobil (car sales) mulai dari proses data cleaning, penggabungan data, hingga pembuatan dashboard interaktif menggunakan Power BI untuk menampilkan insight tren penjualan, performa company, serta distribusi penjualan berdasarkan wilayah.
 
-**note :** Hasil insight berupa dashboard di Power BI di ekspor menjadi gambar, untuk share project tidak tersedia karena saya tidak memiliki email perusahaan untuk login.
+**note :** Hasil insight berupa dashboard di Power BI di ekspor menjadi gambar, untuk share project tidak tersedia karena saya tidak memiliki email perusahaan untuk login di Power BI.
