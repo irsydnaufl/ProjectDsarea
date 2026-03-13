@@ -1,6 +1,6 @@
 # Project Dsarea
 
-Mengikuti Bootcamp Data Analyst di Dsarea selama 1 bulan dengan fokus pada pengembangan kemampuan analisis data melalui pembelajaran exploratory analysis dan explanatory analysis. Exploratory analysis mencakup proses memahami struktur data, menemukan pola, serta mengidentifikasi insight awal yang relevan. Selanjutnya, explanatory analysis menekankan pada penyajian hasil analisis dalam bentuk visualisasi dan narasi yang mudah dipahami guna mendukung pengambilan keputusan berbasis data.<br>
+Ikut serta dalam Bootcamp Data Analyst di Dsarea selama 1 bulan dengan fokus pada pengembangan kemampuan analisis data melalui pembelajaran exploratory analysis dan explanatory analysis. Exploratory analysis mencakup proses memahami struktur data, menemukan pola, serta mengidentifikasi insight awal yang relevan. Selanjutnya, explanatory analysis menekankan pada penyajian hasil analisis dalam bentuk visualisasi dan narasi yang mudah dipahami guna mendukung pengambilan keputusan berbasis data.<br>
 
 ![Uploading Dashboard Car Sales.jpg…](https://github.com/irsydnaufl/ProjectDsarea/blob/main/Dashboard%20Car%20Sales.jpg)<br>
 
